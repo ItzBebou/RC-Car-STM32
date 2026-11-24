@@ -1,0 +1,11 @@
+../Core/Src/rc_receiver.c:82:6:RC_Receiver_Init	40	static
+../Core/Src/rc_receiver.c:119:6:USART1_IRQHandler	8	static
+../Core/Src/rc_receiver.c:125:6:HAL_UART_RxCpltCallback	24	static
+../Core/Src/rc_receiver.c:150:6:HAL_UART_ErrorCallback	16	static
+../Core/Src/rc_receiver.c:171:15:clamp100	16	static
+../Core/Src/rc_receiver.c:178:13:parse_frame	40	static
+../Core/Src/rc_receiver.c:200:13:RC_ApplyOutputs	16	static
+../Core/Src/rc_receiver.c:209:6:RC_Receiver_Task	48	static,ignoring_inline_asm
+../Core/Src/rc_receiver.c:262:8:RC_GetSteer	4	static
+../Core/Src/rc_receiver.c:263:8:RC_GetThrottle	4	static
+../Core/Src/rc_receiver.c:264:8:RC_IsFailsafe	4	static

@@ -1,0 +1,11 @@
+../Core/Src/rc_receiver.c:82:6:RC_Receiver_Init	1
+../Core/Src/rc_receiver.c:119:6:USART1_IRQHandler	1
+../Core/Src/rc_receiver.c:125:6:HAL_UART_RxCpltCallback	5
+../Core/Src/rc_receiver.c:150:6:HAL_UART_ErrorCallback	2
+../Core/Src/rc_receiver.c:171:15:clamp100	3
+../Core/Src/rc_receiver.c:178:13:parse_frame	9
+../Core/Src/rc_receiver.c:200:13:RC_ApplyOutputs	1
+../Core/Src/rc_receiver.c:209:6:RC_Receiver_Task	5
+../Core/Src/rc_receiver.c:262:8:RC_GetSteer	1
+../Core/Src/rc_receiver.c:263:8:RC_GetThrottle	1
+../Core/Src/rc_receiver.c:264:8:RC_IsFailsafe	1
